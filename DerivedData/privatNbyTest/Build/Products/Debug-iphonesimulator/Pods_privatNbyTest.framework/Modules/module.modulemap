@@ -1,0 +1,6 @@
+framework module Pods_privatNbyTest {
+  umbrella header "Pods-privatNbyTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

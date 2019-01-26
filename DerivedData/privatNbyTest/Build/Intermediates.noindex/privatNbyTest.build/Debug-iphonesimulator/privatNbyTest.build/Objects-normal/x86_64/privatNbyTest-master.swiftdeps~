@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a04a880bcbad1f836063e93bce1b8d3e"
+build_time: [1548323697, 777945000]
+inputs:
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/ViewController.swift": [1548322798, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/ErrorAlert.swift": [1548323292, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/APIManagerInterface.swift": [1548323292, 0]
+  "/Users/yermakovanton/Desktop/Applications/Onix Test/Onix Test/Network/APIManager.swift": !dirty [1548323697, 0]
+  "/Users/yermakovanton/Desktop/Applications/Onix Test/Onix Test/Network/Endpoint.swift": [1548323548, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/AppDelegate.swift": [1548260316, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/View's/PrivateHeader.swift": [1548262338, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/View's/NbyHeader.swift": [1548321322, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/View's/PrivateTableViewCell.swift": [1548321555, 0]
+  "/Users/yermakovanton/Desktop/privatNbyTest/privatNbyTest/APIError.swift": [1548323292, 0]

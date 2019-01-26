@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A776BE33ADB747B1200B9EEF89E671561E7B19C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ED4E77B4-0148-416C-B073-AD365D885BDF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A776BE33ADB747B1200B9EEF89E671561E7B19C7" : "Applications\/Onix%20Test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "privatNbyTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "privatNbyTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iosDveloepr\/onix-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A776BE33ADB747B1200B9EEF89E671561E7B19C7"
+    }
+  ]
+}

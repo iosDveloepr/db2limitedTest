@@ -5,7 +5,77 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3B99A438-C75B-4604-974B-3CF5AB01C998</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>3B99A438-C75B-4604-974B-3CF5AB01C998.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Pods-privatNbyTest-dudgwvsdeedovnbejfwbblrxccoq</string>
+			<key>timeStartedRecording</key>
+			<real>570016351.99515796</real>
+			<key>timeStoppedRecording</key>
+			<real>570016353.36238098</real>
+			<key>title</key>
+			<string>Build target Pods-privatNbyTest</string>
+			<key>uniqueIdentifier</key>
+			<string>3B99A438-C75B-4604-974B-3CF5AB01C998</string>
+		</dict>
+		<key>4A398FDF-B6F1-4AF4-9397-FF799DA631F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4A398FDF-B6F1-4AF4-9397-FF799DA631F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>signature</key>
+			<string>privatNbyTest-clvyvmnkftdirxctwbfwfhxwwdky</string>
+			<key>timeStartedRecording</key>
+			<real>570016576.29282999</real>
+			<key>timeStoppedRecording</key>
+			<real>570016576.68942797</real>
+			<key>title</key>
+			<string>Build target privatNbyTest</string>
+			<key>uniqueIdentifier</key>
+			<string>4A398FDF-B6F1-4AF4-9397-FF799DA631F4</string>
+		</dict>
+		<key>8B22BCE0-CEE8-4B2F-A3DE-000542CD8AF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>8B22BCE0-CEE8-4B2F-A3DE-000542CD8AF0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Alamofire-dudgwvsdeedovnbejfwbblrxccoq</string>
+			<key>timeStartedRecording</key>
+			<real>570016348.71776199</real>
+			<key>timeStoppedRecording</key>
+			<real>570016351.99210703</real>
+			<key>title</key>
+			<string>Build target Alamofire</string>
+			<key>uniqueIdentifier</key>
+			<string>8B22BCE0-CEE8-4B2F-A3DE-000542CD8AF0</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

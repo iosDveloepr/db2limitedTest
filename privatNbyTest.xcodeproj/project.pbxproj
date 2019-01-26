@@ -7,14 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8EB74B4A81FBF1F8418DB54B /* Pods_privatNbyTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA8FB51AFD0331F41DEB4FE /* Pods_privatNbyTest.framework */; };
 		DF067AB521F8CB5C00BBEF04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF067AB421F8CB5C00BBEF04 /* AppDelegate.swift */; };
 		DF067AB721F8CB5C00BBEF04 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF067AB621F8CB5C00BBEF04 /* ViewController.swift */; };
 		DF067ABA21F8CB5C00BBEF04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF067AB821F8CB5C00BBEF04 /* Main.storyboard */; };
 		DF067ABC21F8CB5D00BBEF04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF067ABB21F8CB5D00BBEF04 /* Assets.xcassets */; };
 		DF067ABF21F8CB5D00BBEF04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF067ABD21F8CB5D00BBEF04 /* LaunchScreen.storyboard */; };
+		DF067AC921F8CF2A00BBEF04 /* PrivateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF067AC821F8CF2A00BBEF04 /* PrivateTableViewCell.swift */; };
+		DF067ACD21F8D34200BBEF04 /* PrivateHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF067ACC21F8D34200BBEF04 /* PrivateHeader.swift */; };
+		DF067ACF21F8D36B00BBEF04 /* PrivateHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF067ACE21F8D36B00BBEF04 /* PrivateHeader.xib */; };
+		DF0B731C21F9B9AB008258FF /* NbyHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0B731B21F9B9AB008258FF /* NbyHeader.swift */; };
+		DF0B731E21F9B9C3008258FF /* NbyHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF0B731D21F9B9C3008258FF /* NbyHeader.xib */; };
+		DF0B732321F9C0D4008258FF /* ErrorAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0B732221F9C0D4008258FF /* ErrorAlert.swift */; };
+		DF0B732521F9C0FE008258FF /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0B732421F9C0FE008258FF /* APIError.swift */; };
+		DF0B732721F9C104008258FF /* APIManagerInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0B732621F9C104008258FF /* APIManagerInterface.swift */; };
+		DFCE8F9521F9C8010086E060 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFCE8F9421F9C8010086E060 /* Alamofire.framework */; };
+		DFCE8FA021F9D0DD0086E060 /* Privat.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCE8F9F21F9D0DD0086E060 /* Privat.swift */; };
+		DFCE8FA421F9D2C00086E060 /* NBY.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCE8FA321F9D2C00086E060 /* NBY.swift */; };
+		DFCE8FA721F9D4120086E060 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCE8F9921F9D08B0086E060 /* Endpoint.swift */; };
+		DFCE8FA921F9D86F0086E060 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCE8F9A21F9D08C0086E060 /* APIManager.swift */; };
+		DFCE8FAF21FA1A760086E060 /* NBYTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCE8FAE21FA1A760086E060 /* NBYTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D2F0121A4A0742552B4B1FDD /* Pods-privatNbyTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-privatNbyTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-privatNbyTest/Pods-privatNbyTest.debug.xcconfig"; sourceTree = "<group>"; };
 		DF067AB121F8CB5C00BBEF04 /* privatNbyTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = privatNbyTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF067AB421F8CB5C00BBEF04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DF067AB621F8CB5C00BBEF04 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +38,22 @@
 		DF067ABB21F8CB5D00BBEF04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF067ABE21F8CB5D00BBEF04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF067AC021F8CB5D00BBEF04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF067AC821F8CF2A00BBEF04 /* PrivateTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivateTableViewCell.swift; sourceTree = "<group>"; };
+		DF067ACC21F8D34200BBEF04 /* PrivateHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivateHeader.swift; sourceTree = "<group>"; };
+		DF067ACE21F8D36B00BBEF04 /* PrivateHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PrivateHeader.xib; sourceTree = "<group>"; };
+		DF0B731B21F9B9AB008258FF /* NbyHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NbyHeader.swift; sourceTree = "<group>"; };
+		DF0B731D21F9B9C3008258FF /* NbyHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NbyHeader.xib; sourceTree = "<group>"; };
+		DF0B732221F9C0D4008258FF /* ErrorAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorAlert.swift; sourceTree = "<group>"; };
+		DF0B732421F9C0FE008258FF /* APIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		DF0B732621F9C104008258FF /* APIManagerInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManagerInterface.swift; sourceTree = "<group>"; };
+		DFA8FB51AFD0331F41DEB4FE /* Pods_privatNbyTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_privatNbyTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFCE8F9421F9C8010086E060 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFCE8F9921F9D08B0086E060 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		DFCE8F9A21F9D08C0086E060 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		DFCE8F9F21F9D0DD0086E060 /* Privat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Privat.swift; sourceTree = "<group>"; };
+		DFCE8FA321F9D2C00086E060 /* NBY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NBY.swift; sourceTree = "<group>"; };
+		DFCE8FAE21FA1A760086E060 /* NBYTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NBYTableViewCell.swift; sourceTree = "<group>"; };
+		F227C160555D03829FC3A179 /* Pods-privatNbyTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-privatNbyTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-privatNbyTest/Pods-privatNbyTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +61,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFCE8F9521F9C8010086E060 /* Alamofire.framework in Frameworks */,
+				8EB74B4A81FBF1F8418DB54B /* Pods_privatNbyTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9CB83991BCD4EEF2115C7515 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DFCE8F9421F9C8010086E060 /* Alamofire.framework */,
+				DFA8FB51AFD0331F41DEB4FE /* Pods_privatNbyTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		DF067AA821F8CB5C00BBEF04 = {
 			isa = PBXGroup;
 			children = (
 				DF067AB321F8CB5C00BBEF04 /* privatNbyTest */,
 				DF067AB221F8CB5C00BBEF04 /* Products */,
+				FE06948B2F8A944DDDE62ED8 /* Pods */,
+				9CB83991BCD4EEF2115C7515 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +100,67 @@
 			isa = PBXGroup;
 			children = (
 				DF067AB421F8CB5C00BBEF04 /* AppDelegate.swift */,
-				DF067AB621F8CB5C00BBEF04 /* ViewController.swift */,
-				DF067AB821F8CB5C00BBEF04 /* Main.storyboard */,
-				DF067ABB21F8CB5D00BBEF04 /* Assets.xcassets */,
-				DF067ABD21F8CB5D00BBEF04 /* LaunchScreen.storyboard */,
 				DF067AC021F8CB5D00BBEF04 /* Info.plist */,
+				DF067ABB21F8CB5D00BBEF04 /* Assets.xcassets */,
+				DFCE8F9621F9D0450086E060 /* Controllers */,
+				DF067AC721F8CF0A00BBEF04 /* View's */,
+				DFCE8F9821F9D0870086E060 /* Network */,
+				DFCE8F9721F9D0720086E060 /* Models */,
 			);
 			path = privatNbyTest;
+			sourceTree = "<group>";
+		};
+		DF067AC721F8CF0A00BBEF04 /* View's */ = {
+			isa = PBXGroup;
+			children = (
+				DF067AB821F8CB5C00BBEF04 /* Main.storyboard */,
+				DF067AC821F8CF2A00BBEF04 /* PrivateTableViewCell.swift */,
+				DF067ACC21F8D34200BBEF04 /* PrivateHeader.swift */,
+				DF067ACE21F8D36B00BBEF04 /* PrivateHeader.xib */,
+				DF0B731B21F9B9AB008258FF /* NbyHeader.swift */,
+				DF0B731D21F9B9C3008258FF /* NbyHeader.xib */,
+				DF067ABD21F8CB5D00BBEF04 /* LaunchScreen.storyboard */,
+				DFCE8FAE21FA1A760086E060 /* NBYTableViewCell.swift */,
+			);
+			path = "View's";
+			sourceTree = "<group>";
+		};
+		DFCE8F9621F9D0450086E060 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DF067AB621F8CB5C00BBEF04 /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		DFCE8F9721F9D0720086E060 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DFCE8F9F21F9D0DD0086E060 /* Privat.swift */,
+				DFCE8FA321F9D2C00086E060 /* NBY.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DFCE8F9821F9D0870086E060 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				DF0B732421F9C0FE008258FF /* APIError.swift */,
+				DF0B732621F9C104008258FF /* APIManagerInterface.swift */,
+				DFCE8F9921F9D08B0086E060 /* Endpoint.swift */,
+				DFCE8F9A21F9D08C0086E060 /* APIManager.swift */,
+				DF0B732221F9C0D4008258FF /* ErrorAlert.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		FE06948B2F8A944DDDE62ED8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D2F0121A4A0742552B4B1FDD /* Pods-privatNbyTest.debug.xcconfig */,
+				F227C160555D03829FC3A179 /* Pods-privatNbyTest.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +170,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = DF067AC321F8CB5D00BBEF04 /* Build configuration list for PBXNativeTarget "privatNbyTest" */;
 			buildPhases = (
+				99A047CB13051CAAA85346F2 /* [CP] Check Pods Manifest.lock */,
 				DF067AAD21F8CB5C00BBEF04 /* Sources */,
 				DF067AAE21F8CB5C00BBEF04 /* Frameworks */,
 				DF067AAF21F8CB5C00BBEF04 /* Resources */,
+				1B07E6299F760D92825608FF /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,21 +223,81 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF0B731E21F9B9C3008258FF /* NbyHeader.xib in Resources */,
 				DF067ABF21F8CB5D00BBEF04 /* LaunchScreen.storyboard in Resources */,
 				DF067ABC21F8CB5D00BBEF04 /* Assets.xcassets in Resources */,
+				DF067ACF21F8D36B00BBEF04 /* PrivateHeader.xib in Resources */,
 				DF067ABA21F8CB5C00BBEF04 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1B07E6299F760D92825608FF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-privatNbyTest/Pods-privatNbyTest-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-privatNbyTest/Pods-privatNbyTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		99A047CB13051CAAA85346F2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-privatNbyTest-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		DF067AAD21F8CB5C00BBEF04 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFCE8FA721F9D4120086E060 /* Endpoint.swift in Sources */,
 				DF067AB721F8CB5C00BBEF04 /* ViewController.swift in Sources */,
+				DF0B732321F9C0D4008258FF /* ErrorAlert.swift in Sources */,
+				DF0B732721F9C104008258FF /* APIManagerInterface.swift in Sources */,
 				DF067AB521F8CB5C00BBEF04 /* AppDelegate.swift in Sources */,
+				DFCE8FA921F9D86F0086E060 /* APIManager.swift in Sources */,
+				DF067ACD21F8D34200BBEF04 /* PrivateHeader.swift in Sources */,
+				DF0B731C21F9B9AB008258FF /* NbyHeader.swift in Sources */,
+				DF067AC921F8CF2A00BBEF04 /* PrivateTableViewCell.swift in Sources */,
+				DFCE8FA421F9D2C00086E060 /* NBY.swift in Sources */,
+				DFCE8FAF21FA1A760086E060 /* NBYTableViewCell.swift in Sources */,
+				DF0B732521F9C0FE008258FF /* APIError.swift in Sources */,
+				DFCE8FA021F9D0DD0086E060 /* Privat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +441,7 @@
 		};
 		DF067AC421F8CB5D00BBEF04 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D2F0121A4A0742552B4B1FDD /* Pods-privatNbyTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -298,6 +460,7 @@
 		};
 		DF067AC521F8CB5D00BBEF04 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F227C160555D03829FC3A179 /* Pods-privatNbyTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

@@ -5,6 +5,94 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>03B19FA4-6944-4C98-B1D4-8C66EF4FC676</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03B19FA4-6944-4C98-B1D4-8C66EF4FC676.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>privatNbyTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>privatNbyTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build privatNbyTest</string>
+			<key>timeStartedRecording</key>
+			<real>570016348.59359801</real>
+			<key>timeStoppedRecording</key>
+			<real>570016353.88669896</real>
+			<key>title</key>
+			<string>Build privatNbyTest</string>
+			<key>uniqueIdentifier</key>
+			<string>03B19FA4-6944-4C98-B1D4-8C66EF4FC676</string>
+		</dict>
+		<key>4413DCDE-88C6-44E9-B9C0-0B0BAFE95782</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4413DCDE-88C6-44E9-B9C0-0B0BAFE95782.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>privatNbyTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>privatNbyTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build privatNbyTest</string>
+			<key>timeStartedRecording</key>
+			<real>570016497.69375098</real>
+			<key>timeStoppedRecording</key>
+			<real>570016497.94089401</real>
+			<key>title</key>
+			<string>Build privatNbyTest</string>
+			<key>uniqueIdentifier</key>
+			<string>4413DCDE-88C6-44E9-B9C0-0B0BAFE95782</string>
+		</dict>
+		<key>CF6D782E-E7EA-48A1-93D3-BC2D9169F733</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF6D782E-E7EA-48A1-93D3-BC2D9169F733.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>privatNbyTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>privatNbyTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build privatNbyTest</string>
+			<key>timeStartedRecording</key>
+			<real>570016576.22254896</real>
+			<key>timeStoppedRecording</key>
+			<real>570016576.711429</real>
+			<key>title</key>
+			<string>Build privatNbyTest</string>
+			<key>uniqueIdentifier</key>
+			<string>CF6D782E-E7EA-48A1-93D3-BC2D9169F733</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
